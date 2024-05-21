@@ -1,0 +1,11 @@
+<button data-type="button" id="___n6"
+        style="font-size: 45px; color: var(--prim); width: unset;"
+        class="icon w_btn"
+        onclick="post_set('_n6',2)"
+        onmousedown="if(!UiButton.touch)post_click('_n6',1)"
+        onmouseup="if(!UiButton.touch&amp;&amp;UiButton.pressID)post_click('_n6',0)"
+        onmouseleave="if(UiButton.pressID&amp;&amp;!UiButton.touch)post_click('_n6',0);"
+        ontouchstart="UiButton.touch=1;post_click('_n6',1)"
+        ontouchend="post_click('_n6',0)"
+        data-color="var(--prim)"
+        data-size="45px" data-inline="true">{$icon}</button>

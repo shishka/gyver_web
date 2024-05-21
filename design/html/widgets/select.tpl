@@ -1,0 +1,1 @@
+<select data-type="select" class="w_select" style="color:var(--prim)" id="__sel" value="0" onchange="post_set('sel',this.value)"><option value="0">kek</option><option value="1">puk</option><option value="2">123</option><option value="3">hello</option><option value="4">azaz</option></select>

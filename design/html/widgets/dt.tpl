@@ -1,0 +1,1 @@
+<input data-type="datetime" id="__datet" class="w_date" style="color:var(--prim)" type="datetime-local" value="1970-01-01T00:00:00" onclick="this.showPicker()" onchange="post_set('datet',getUnix(this))" step="1">
