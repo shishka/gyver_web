@@ -1,0 +1,14 @@
+{
+  "name": "cms/iecoza",
+  "description": "CMS",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Alex Semikov",
+      "email": "9558@mail.ru"
+    }
+  ],
+  "require": {
+    "smarty/smarty": "^4.1"
+  }
+}
